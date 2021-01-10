@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Data Visualizations"
-  url = "/projects"
+  url = "/project"
   weight = 30
 
 [[main]]
