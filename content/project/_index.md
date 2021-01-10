@@ -1,5 +1,5 @@
 ---
-title: Gallery of my Data Visualizations
+title: Projects
 
 # View.
 #   1 = List
