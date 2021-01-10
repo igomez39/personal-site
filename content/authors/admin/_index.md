@@ -19,7 +19,7 @@ bio: My research interests include causal inference, food access, education.
 # Interests to show in About widget
 interests:
 - Public Health
-- Food Security
+- Nutrition
 - Statistics
 - Data Visualization
 
@@ -37,13 +37,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:igomez@smith.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gomezdata
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/igomez39
@@ -66,5 +63,3 @@ highlight_name: false
 ---
 
 I am an undergraduate student at Smith College studying Statistical and Data Sciences. I am currently exploring the data science world specifically the data visualization and data analysis realm. I decided to make this blog to document my growth and the things I learn in R, Python, Excel, Tableu and SQL. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
